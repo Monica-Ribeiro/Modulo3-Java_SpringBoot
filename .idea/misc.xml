@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/nome-usuario/pom.xml" />
         <option value="$PROJECT_DIR$/eleva-ao-quadrado/pom.xml" />
+        <option value="$PROJECT_DIR$/loja/pom.xml" />
+        <option value="$PROJECT_DIR$/jogos/pom.xml" />
       </list>
     </option>
   </component>

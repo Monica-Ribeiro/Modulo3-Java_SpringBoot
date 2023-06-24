@@ -6,18 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="loja" />
         <module name="nome-usuario" />
         <module name="eleva-ao-quadrado" />
+        <module name="jogos" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eleva-ao-quadrado" target="11" />
+      <module name="jogos" target="11" />
+      <module name="loja" target="11" />
       <module name="nome-usuario" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eleva-ao-quadrado" options="-parameters" />
+      <module name="jogos" options="-parameters" />
+      <module name="loja" options="-parameters" />
       <module name="nome-usuario" options="-parameters" />
     </option>
   </component>
