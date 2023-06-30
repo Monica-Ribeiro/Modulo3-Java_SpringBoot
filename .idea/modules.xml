@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Modulo3_JAVA-e-SPRINGBOOT.iml" filepath="$PROJECT_DIR$/.idea/Modulo3_JAVA-e-SPRINGBOOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cep/cep.iml" filepath="$PROJECT_DIR$/cep/cep.iml" />
       <module fileurl="file://$PROJECT_DIR$/eleva-ao-quadrado/eleva-ao-quadrado.iml" filepath="$PROJECT_DIR$/eleva-ao-quadrado/eleva-ao-quadrado.iml" />
       <module fileurl="file://$PROJECT_DIR$/jogos/jogos.iml" filepath="$PROJECT_DIR$/jogos/jogos.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja.iml" filepath="$PROJECT_DIR$/loja/loja.iml" />

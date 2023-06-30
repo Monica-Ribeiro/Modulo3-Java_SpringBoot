@@ -10,9 +10,11 @@
         <module name="nome-usuario" />
         <module name="eleva-ao-quadrado" />
         <module name="jogos" />
+        <module name="cep" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cep" target="11" />
       <module name="eleva-ao-quadrado" target="11" />
       <module name="jogos" target="11" />
       <module name="loja" target="11" />
@@ -21,6 +23,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cep" options="-parameters" />
       <module name="eleva-ao-quadrado" options="-parameters" />
       <module name="jogos" options="-parameters" />
       <module name="loja" options="-parameters" />
