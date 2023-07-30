@@ -6,30 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="loja" />
         <module name="servico-de-delivery" />
+        <module name="sala" />
         <module name="nome-usuario" />
         <module name="eleva-ao-quadrado" />
+        <module name="loja" />
+        <module name="listas" />
+        <module name="revisao" />
         <module name="jogos" />
         <module name="cep" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cep" target="11" />
+      <module name="cosmetico" target="17" />
       <module name="eleva-ao-quadrado" target="11" />
       <module name="jogos" target="11" />
+      <module name="listas" target="11" />
       <module name="loja" target="11" />
       <module name="nome-usuario" target="11" />
+      <module name="revisao" target="11" />
+      <module name="sala" target="17" />
       <module name="servico-de-delivery" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cep" options="-parameters" />
+      <module name="cosmetico" options="-parameters" />
       <module name="eleva-ao-quadrado" options="-parameters" />
       <module name="jogos" options="-parameters" />
       <module name="loja" options="-parameters" />
       <module name="nome-usuario" options="-parameters" />
+      <module name="revisao" options="-parameters" />
+      <module name="sala" options="-parameters" />
       <module name="servico-de-delivery" options="-parameters" />
     </option>
   </component>

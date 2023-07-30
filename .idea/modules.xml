@@ -6,8 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/cep/cep.iml" filepath="$PROJECT_DIR$/cep/cep.iml" />
       <module fileurl="file://$PROJECT_DIR$/eleva-ao-quadrado/eleva-ao-quadrado.iml" filepath="$PROJECT_DIR$/eleva-ao-quadrado/eleva-ao-quadrado.iml" />
       <module fileurl="file://$PROJECT_DIR$/jogos/jogos.iml" filepath="$PROJECT_DIR$/jogos/jogos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas.iml" filepath="$PROJECT_DIR$/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja.iml" filepath="$PROJECT_DIR$/loja/loja.iml" />
       <module fileurl="file://$PROJECT_DIR$/nome-usuario/nome-usuario.iml" filepath="$PROJECT_DIR$/nome-usuario/nome-usuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revisao.iml" filepath="$PROJECT_DIR$/revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sala/sala.iml" filepath="$PROJECT_DIR$/sala/sala.iml" />
       <module fileurl="file://$PROJECT_DIR$/servico-de-delivery/servico-de-delivery.iml" filepath="$PROJECT_DIR$/servico-de-delivery/servico-de-delivery.iml" />
     </modules>
   </component>

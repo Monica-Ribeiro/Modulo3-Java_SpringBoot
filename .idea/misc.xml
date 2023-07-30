@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/jogos/pom.xml" />
         <option value="$PROJECT_DIR$/cep/pom.xml" />
         <option value="$PROJECT_DIR$/servico-de-delivery/pom.xml" />
+        <option value="$PROJECT_DIR$/listas/pom.xml" />
+        <option value="$PROJECT_DIR$/revisao/pom.xml" />
+        <option value="$PROJECT_DIR$/sala/pom.xml" />
+        <option value="$PROJECT_DIR$/cosmetico/pom.xml" />
       </list>
     </option>
   </component>
